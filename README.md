@@ -13,8 +13,8 @@ Pessoas com dificuldade de organização
 Usuários que preferem ferramentas simples no terminal
 Quem precisa de um gerenciador de tarefas leve
 
-⚙️ Funcionalidades:
-
+##⚙️ Funcionalidades:
+```
 ➕ Adicionar tarefa
 📋 Listar tarefas
 ✅ Marcar tarefa como concluída
@@ -23,7 +23,7 @@ Quem precisa de um gerenciador de tarefas leve
 🧪 Testes automatizados
 🧹 Lint com Ruff
 🔁 CI com GitHub Actions
-
+```
 🛠️ Tecnologias utilizadas
     Python 3
     Pytest
