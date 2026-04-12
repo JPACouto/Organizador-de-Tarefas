@@ -31,26 +31,30 @@ Quem precisa de um gerenciador de tarefas leve
     GitHub Actions
     JSON para armazenamento
 
-📁 Estrutura do Projeto
-    Organizador-de-Tarefas/
-    │
-    ├── src/
-    │   ├── main.py
-    │   └── task_manager.py
-    │
-    ├── tests/
-    │   └── test_tasks.py
-    │
-    ├── data/
-    │   └── tasks.json
-    │
-    ├── .github/workflows/
-    │   └── ci.yml
-    │
-    ├── requirements.txt
-    ├── README.md
-    ├── VERSION
-    └── .gitignore
+## 📁 Estrutura do Projeto
+
+```
+Organizador-de-Tarefas/
+│
+├── src/
+│   ├── main.py
+│   └── task_manager.py
+│
+├── tests/
+│   └── test_tasks.py
+│
+├── data/
+│   └── tasks.json
+│
+├── .github/
+│   └── workflows/
+│       └── ci.yml
+│
+├── requirements.txt
+├── README.md
+├── VERSION
+└── .gitignore
+```
 
 ▶️ Como executar o projeto
 1. Clonar o repositório
