@@ -115,24 +115,27 @@ Arquivo:
 VERSION
 ## 📦 Dependências
 
-Arquivo:
+Arquivo: `requirements.txt`
 
-```text
-requirements.txt
 Conteúdo:
 
-pytest
-ruff
-👤 Autor
+- pytest  
+- ruff  
+
+---
+
+## 👤 Autor
 
 João Pedro Araujo Couto
 
-🔗 Repositório
+---
+
+## 🔗 Repositório
 
 https://github.com/JPACouto/Organizador-de-Tarefas
 
-📄 Licença
+---
 
-Uso educacional — BootCamp Entrega Inicial
+## 📄 Licença
 
-[def]: ./images/tests.png
+Uso educacional — BootCamp II Entrega Inicial
