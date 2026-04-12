@@ -96,10 +96,6 @@ Workflow localizado em:
 
 ![Teste 2](./images/imagem%20teste2.png)
 
-    ![Teste 1](./images/imagem%20teste.png)
-
-    ![Teste 2](./images/imagem%20teste2.png)
-
 📦 Versionamento
 
 Este projeto utiliza versionamento semântico:
