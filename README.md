@@ -113,12 +113,12 @@ Versão atual:
 Arquivo:
 
 VERSION
-📦 Dependências
+## 📦 Dependências
 
 Arquivo:
 
+```text
 requirements.txt
-
 Conteúdo:
 
 pytest
