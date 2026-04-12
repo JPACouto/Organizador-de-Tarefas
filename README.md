@@ -13,7 +13,7 @@ Pessoas com dificuldade de organização
 Usuários que preferem ferramentas simples no terminal
 Quem precisa de um gerenciador de tarefas leve
 
-##⚙️ Funcionalidades:
+⚙️ Funcionalidades:
 
 ```
 ➕ Adicionar tarefa
