@@ -83,8 +83,13 @@ Workflow localizado em:
 
 .github/workflows/ci.yml
 
-📸 Evidência de Funcionamento
-    🧪 Testes automatizados
+## 📸 Evidência de Funcionamento
+
+### 🧪 Testes automatizados
+
+![Teste 1](./images/imagem%20teste.png)
+
+![Teste 2](./images/imagem%20teste2.png)
 
     ![Teste 1](./images/imagem%20teste.png)
 
