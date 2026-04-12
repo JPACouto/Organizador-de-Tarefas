@@ -1,5 +1,9 @@
 import os
+import sys
 import pytest
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+
 from src.task_manager import add_task, list_tasks, complete_task
 
 TEST_FILE = "data/tasks.json"
