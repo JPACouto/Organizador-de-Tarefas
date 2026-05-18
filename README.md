@@ -1,4 +1,11 @@
 📋 Organizador de Tarefas CLI
+
+## 🌐 Aplicação publicada
+
+Acesse a aplicação online:
+
+[Organizador de Tarefas - Streamlit](https://organizador-de-tarefas.streamlit.app)
+
 📌 Problema
 
 Muitos estudantes e usuários têm dificuldade em organizar tarefas do dia a dia, o que pode levar à perda de prazos, baixa produtividade e falta de acompanhamento das atividades.
