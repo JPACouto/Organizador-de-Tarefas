@@ -1,4 +1,6 @@
+from api_service import get_motivational_quote
 from task_manager import add_task, list_tasks, complete_task, remove_task
+
 
 
 def show_menu():
@@ -11,6 +13,12 @@ def show_menu():
 
 
 def main():
+    quote = get_motivational_quote()
+
+    print("\n💡 Frase do dia:")
+    print(f'"{quote["content"]}"')
+    print(f'- {quote["author"]}\n')
+
     while True:
         show_menu()
         option = input("Escolha uma opção: ")
@@ -26,7 +34,7 @@ def main():
                 if not tasks:
                     print("Nenhuma tarefa cadastrada.")
                 for i, task in enumerate(tasks):
-                    status = "✔" if task["done"] else "✘"
+                    status = "✓" if task["done"] else "X"
                     print(f"{i} - [{status}] {task['title']}")
 
             elif option == "3":
@@ -46,9 +54,8 @@ def main():
             else:
                 print("Opção inválida.")
 
-        except Exception as e:
-            print(f"Erro: {e}")
-
+        except Exception as error:
+            print(f"Erro: {error}")
 
 if __name__ == "__main__":
     main()
