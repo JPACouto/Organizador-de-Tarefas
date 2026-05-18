@@ -1,6 +1,6 @@
 📋 Organizador de Tarefas CLI
 
-## 🌐 Aplicação publicada
+##  Aplicação publicada no Streamlit
 
 Acesse a aplicação online:
 
