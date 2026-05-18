@@ -14,24 +14,26 @@ Muitos estudantes e usuários têm dificuldade em organizar tarefas do dia a dia
 
 Esta aplicação em linha de comando (CLI) permite gerenciar tarefas de forma simples, possibilitando cadastrar, listar, concluir e remover tarefas, ajudando na organização pessoal e acadêmica.
 
-👥 Público-alvo
-Estudantes
-Pessoas com dificuldade de organização
-Usuários que preferem ferramentas simples no terminal
-Quem precisa de um gerenciador de tarefas leve
+## 👥 Público-alvo
 
-⚙️ Funcionalidades:
+- Estudantes
+- Pessoas com dificuldade de organização
+- Usuários que preferem ferramentas simples no terminal
+- Quem precisa de um gerenciador de tarefas leve
 
-```
-➕ Adicionar tarefa
-📋 Listar tarefas
-✅ Marcar tarefa como concluída
-❌ Remover tarefa
-💾 Persistência em arquivo JSON
-🧪 Testes automatizados
-🧹 Lint com Ruff
-🔁 CI com GitHub Actions
-```
+## ⚙️ Funcionalidades
+
+- ➕ Adicionar tarefa
+- 📋 Listar tarefas
+- ✅ Marcar tarefa como concluída
+- ❌ Remover tarefa
+- 💾 Persistência em arquivo JSON
+- 🌐 Integração com API pública
+- 🧪 Testes automatizados
+- 🧹 Lint com Ruff
+- 🔁 CI com GitHub Actions
+- 🚀 Deploy com Streamlit
+
 🛠️ Tecnologias utilizadas
     Python 3
     Pytest
